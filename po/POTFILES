@@ -1,0 +1,7 @@
+data/org.gnome.geditclone.desktop.in
+data/org.gnome.geditclone.appdata.xml.in
+data/org.gnome.geditclone.gschema.xml
+src/window.ui
+src/main.vala
+src/window.vala
+
